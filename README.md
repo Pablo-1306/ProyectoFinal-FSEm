@@ -13,6 +13,8 @@ El código fuente implementado, se encuentra en el directorio del repositorio /s
 Instalación
 
 Basta con llevar a cabo la ejecución del archivo install.sh, este archivo contendrá los comandos requeridos para la correcta instalación de depenedias requeridas para la ejecución del proyecto.
+Para esto, se deberá ingresar el commando: chmod +x install.sh
+Por último: ./install.sh
 
 
 Video
